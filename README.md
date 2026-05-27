@@ -1,62 +1,34 @@
-👋 About Me
+# 👋 Hi, I'm Madhukar | Founder @ Madhukar Nexus
 
-Hi, I’m Madhukar, an IoT developer and technology enthusiast focused on building practical, real-world IoT solutions.
+### 🚀 Principal Systems Architect & Full-Stack AI Engineer
+I bridge the gap between high-performance web engineering, local AI pipeline orchestration, and hardware ecosystems. Through my agency, **Madhukar Nexus**, I build enterprise-ready AI orchestration platforms, production MERN stacks, and low-latency Edge-AI solutions.
 
-I primarily work with ESP32-based embedded systems, sensors, and edge devices. I am actively exploring Edge AI using Edge Impulse, along with Machine Learning (ML) and Artificial Intelligence (AI) for resource-constrained environments.
+📈 **Open for High-Impact Software Engineering Roles & Corporate AI Consulting/Development Contracts.**
 
-I also work with cloud IoT platforms to connect devices, manage data, and enable real-time monitoring and automation.
+---
 
-My approach is simple:
-understand the problem deeply, design reliable systems, and avoid unnecessary complexity.
+## 🛠️ Tech Stack & Capabilities
 
-🧠 Areas of Interest
+* **AI Architecture & Pipelines:** Local LLM Deployment (Ollama, Qwen, Llama), System Orchestration, Vector DBs, Model Telemetry.
+* **Full-Stack Core:** React, TypeScript, Next.js, Node.js, FastAPI, Python, Express.
+* **Database & Infrastructure:** PostgreSQL, MongoDB, Docker, Docker Compose, Redis, RESTful API Design.
+* **Hardware & Edge Systems:** ESP32 Microcontrollers, IoT Systems, Resource-Constrained Optimization, Embedded C/C++.
 
-Internet of Things (IoT)
+---
 
-Embedded Systems (ESP32)
+## 🌟 Featured Production Pipelines
 
-Edge Impulse & Edge AI
+### 💬 [NexusChat](https://github.com)
+*Enterprise-Grade AI Orchestration & Streaming Pipeline Platform*
+* **What it is:** A production-ready AI chat platform orchestrating localized `qwen2.5-coder:3b` workloads.
+* **Architecture:** React/TypeScript + FastAPI + SQLAlchemy Async Layer + Containerized PostgreSQL.
+* **Core Engineering:** Handles live session states, local inference tracking, and real-time model telemetry.
 
-Machine Learning for sensor data
 
-AI-based monitoring & automation
+## 🤝 Let's Collaborate or Hire Me
 
-Cloud IoT platforms
+Whether you are looking to hire a senior software engineer for your product team, or need **Madhukar Nexus** to build an end-to-end AI automation tool for your business, let's connect:
 
-AWS IoT
-
-Azure IoT
-
-Firebase (Realtime DB / Firestore for IoT dashboards)
-
-🛠️ Skills
-
-ESP32 & microcontrollers
-
-IoT sensors & actuators
-
-Edge Impulse (data collection, training, deployment)
-
-ML & AI basics for edge devices
-
-AWS IoT Core (device-to-cloud communication)
-
-Azure IoT (device management & telemetry)
-
-Firebase for IoT dashboards & real-time data
-
-Designing small-scale, real-world IoT systems
-
-Explaining technical concepts in a clear, practical way
-
-🌱 Currently
-
-Building IoT + Edge AI projects
-
-Experimenting with ML models on edge devices
-
-Integrating ESP32 devices with AWS IoT, Azure IoT, and Firebase
-
-Exploring educational and real-world IoT use cases
-
-Open to remote IoT / Edge AI / Cloud IoT roles, freelance projects, and collaborations
+* 💼 **LinkedIn:** [Madhukar Boddu](https://linkedin.com)
+* 🌐 **Company & Portfolio:** [madhukarnexus.com](https://github.com) *(Update with your domain link when live!)*
+* 📧 **Direct Inquiry:** [Your Professional Email Address]
