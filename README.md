@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Madhukar | Founder @ Madhukar Nexus
 
-### 🚀 Principal Systems Architect & Full-Stack AI Engineer
+### 🚀 Principal Systems Architect & AI Engineer
 I bridge the gap between high-performance web engineering, local AI pipeline orchestration, and hardware ecosystems. Through my agency, **Madhukar Nexus**, I build enterprise-ready AI orchestration platforms, production MERN stacks, and low-latency Edge-AI solutions.
 
 📈 **Open for High-Impact Software Engineering Roles & Corporate AI Consulting/Development Contracts.**
